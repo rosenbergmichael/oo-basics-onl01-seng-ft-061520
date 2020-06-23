@@ -10,6 +10,6 @@ class Shoe
     puts "Your shoe is as good as new!"
   end 
   
-  puts :condition == "new"
+  shoe.condition == "new"
   
 end 
