@@ -12,6 +12,6 @@ class Shoe
   end 
   
   def initialize(condition)
-    @conditoin = "new"
+    @condition = "new"
   end   
 end
