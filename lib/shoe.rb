@@ -10,5 +10,8 @@ class Shoe
     puts "Your shoe is as good as new!"
   end 
   
+  def cobble_new
+    puts :condition == "new"
+  end 
   
 end 
