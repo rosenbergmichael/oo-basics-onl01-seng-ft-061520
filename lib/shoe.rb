@@ -9,7 +9,9 @@ class Shoe
 
   def cobble 
     puts "Your shoe is as good as new!"
-    @condition == "new"
   end 
-    
+  
+  def initialize(condition)
+    @conditoin = "new"
+  end   
 end
