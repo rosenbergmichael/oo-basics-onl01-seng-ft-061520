@@ -11,7 +11,7 @@ class Shoe
   end 
   
   def cobble_new
-    puts :condition << "new"
+    puts [:condition] << "new"
   end 
   
 end 
